@@ -33,7 +33,7 @@ ADMIN SHOW TELEMETRY;
 
 ### TiDB Dashboard
 
-当 TiDB Dashboard 遥测功能开启时，用户在 TiDB Dashboard 网页界面上进行操作时会将使用情况信息分享给 PingCAP，包括（但不限于）：
+当 TiDB 遥测功能开启时，用户在 TiDB Dashboard 网页界面上进行操作时会将使用情况信息分享给 PingCAP，包括（但不限于）：
 
 - 随机生成的遥测标示符
 - 界面访问情况，如访问的 TiDB Dashboard 功能页面名称
